@@ -1,0 +1,25 @@
+{
+  "name": "multiLingualExample",
+  "authors": [
+    "subhajit.ghosh <subhajit.ghosh@innofied.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-translate": "~2.9.1",
+    "angular-translate-handler-log": "~2.9.1",
+    "angular-translate-loader-static-files": "~2.9.1",
+    "angular-translate-storage-local": "~2.9.1"
+  }
+}
